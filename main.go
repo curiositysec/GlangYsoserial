@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	ysoserial "github.com/qi4L/GlangYsoserial.java/Gadget"
+	ysoserial "github.com/curiositysec/GlangYsoseriallll/Gadget"
 )
 
 func main() {
