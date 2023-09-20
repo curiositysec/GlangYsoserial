@@ -1,4 +1,4 @@
-module github.com/curiositysec/GlangYsoseriallll
+module github.com/curiositysec/GlangYsoserial2
 
 go 1.17
 
